@@ -1,5 +1,6 @@
 /**
  * @format
+ * Surachart Buachum
  */
 
 import {AppRegistry} from 'react-native';
